@@ -44,7 +44,7 @@ Node.js, Express, MySQL, Prisma, Postman, Jest, JWT, Bcrypt
 
 - [김시원](https://github.com/k-cool) : Profile(이력서) 페이지 및 User Card 컴포넌트 구현
 - [김재원](https://github.com/jambottle) : Repo 초기 세팅 및 Home/SignUp/SignIn 페이지 및 Global & Linear Footer 컴포넌트 구현
-- [이성재](https://github.com/hanslee1) : 사이트 전체 범위에 대한 검색 기능, 검색 결과 페이지 및 TopNav & Button 컴포넌트 구현
+- [이성재](https://github.com/sjhanslee) : 사이트 전체 범위에 대한 검색 기능, 검색 결과 페이지 및 TopNav & Button 컴포넌트 구현
 - [한승완](https://github.com/han0gu) : MyNetwork(인맥) & Jobs(채용공고) 페이지 및 Job Posting Card & Company Profile Card 컴포넌트 구현
 - [한지훈](https://github.com/JivenHan) : Feed(타임라인) 페이지 및 Floating Footer 컴포넌트 구현
 
